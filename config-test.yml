@@ -1,1 +1,2 @@
-spring.cloud:456
+config:
+  info: "this is test.yml ***"
